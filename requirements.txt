@@ -1,0 +1,4 @@
+fenics
+numpy
+matplotlib
+scipy
